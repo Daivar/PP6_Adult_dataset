@@ -13,6 +13,6 @@ Keras:
 ![image](https://user-images.githubusercontent.com/34160094/147584981-970cac65-f5a2-4649-83e3-17a1e6f8de1c.png)
 
 Accuracy and loss core are so similar on both deep learning framworks.
-This time faster was Keras, evaluation also good - 83%
+This time faster on CPU was Keras, evaluation also good - 83%
 
 ![image](https://user-images.githubusercontent.com/34160094/147585838-3a5c58ff-f3f5-4ea1-85c5-a38f598127d7.png)
